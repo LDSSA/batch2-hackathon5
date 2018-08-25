@@ -18,7 +18,7 @@ python evaluation.py ./y_true.txt ./y_pred.txt
 
 And it will print out your score.
 
-### Calling the function directly
+### Calling our wrapper function
 
 You can supply two python dictionaries to the `evaluate` function:
 
@@ -37,6 +37,11 @@ y_pred = {
 # note that the order is VERY important!
 evaluate(y_true, y_pred)
 ```
+
+### Using the mapk function directly
+
+You can see how we are using the `ml_metrics.mapk(actual, predicted, k=500)` by looking in evaluation.py if you need
+further flexibility.
 
 # Making submissions
 
