@@ -2,7 +2,7 @@
 
 [Description](https://docs.google.com/document/d/1JeuxcWkFMZBHE3xZkM2OVcLKoxNk2bfg7aU9hzsqFvs/edit?usp=sharing)
 
-[Leaderboard]()
+[Leaderboard](https://hackathon-05.batch2.lisbondatascience.org/)
 
 ## Test evaluations
 
