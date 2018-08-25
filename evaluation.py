@@ -15,7 +15,7 @@ def read_file(filename, sep):
 
 
 def evaluate():
-    test_songs = read_file('test_user_played_songs.txt', ' ')
+    test_songs = read_file('y_true.txt', ' ')
     pred_songs = read_file('results.csv', ',')
 
     actual = []
