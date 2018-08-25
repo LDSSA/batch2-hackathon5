@@ -45,6 +45,12 @@ further flexibility.
 
 # Making submissions
 
+## tl;dr
+
+make a prediction for all users in `data/test_users.csv` and upload a csv of it
+
+## slightly longer explanation
+
 You'll submit a csv with no header via the normal upload. The first entry must always be the ID of the user and the rest
 are song ids.
 
